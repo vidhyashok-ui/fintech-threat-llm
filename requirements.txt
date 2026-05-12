@@ -1,0 +1,10 @@
+langchain
+langchain-huggingface
+langchain-community
+faiss-cpu
+neo4j
+python-dotenv
+huggingface_hub
+torch
+transformers
+sentence-transformers
