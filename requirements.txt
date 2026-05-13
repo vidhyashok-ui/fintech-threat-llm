@@ -1,21 +1,5 @@
-Core dependencies for Objective 1 (Collaborative Threat Modelling)
 streamlit
 pandas
 requests
 python-dotenv
-
-# Data handling and JSON
-json5
-
-# For better UI and charts (optional but recommended)
 plotly
-
-# If you want to add basic LangChain support later (light version)
-langchain-community
-langchain
-
-# FAISS for vector search (light CPU version)
-faiss-cpu
-
-# HuggingFace (light version for embeddings)
-sentence-transformers
