@@ -1,22 +1,21 @@
-<<<<<<< HEAD
-langchain
-langchain-huggingface
-langchain-community
-faiss-cpu
-neo4j
+Core dependencies for Objective 1 (Collaborative Threat Modelling)
+streamlit
+pandas
+requests
 python-dotenv
-huggingface_hub
-torch
-transformers
-=======
-langchain
-langchain-huggingface
+
+# Data handling and JSON
+json5
+
+# For better UI and charts (optional but recommended)
+plotly
+
+# If you want to add basic LangChain support later (light version)
 langchain-community
+langchain
+
+# FAISS for vector search (light CPU version)
 faiss-cpu
-neo4j
-python-dotenv
-huggingface_hub
-torch
-transformers
->>>>>>> 22b7eeefedeff39bef3e10ab786a247f94befabb
+
+# HuggingFace (light version for embeddings)
 sentence-transformers
