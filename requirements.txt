@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 langchain
 langchain-huggingface
 langchain-community
@@ -7,4 +8,15 @@ python-dotenv
 huggingface_hub
 torch
 transformers
+=======
+langchain
+langchain-huggingface
+langchain-community
+faiss-cpu
+neo4j
+python-dotenv
+huggingface_hub
+torch
+transformers
+>>>>>>> 22b7eeefedeff39bef3e10ab786a247f94befabb
 sentence-transformers
